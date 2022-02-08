@@ -19,7 +19,7 @@ public class Lms12Application {
         System.out.println(personOne);
         personOne.getAnimal().catPlus();
         personOne.getAnimal().catMinus();
-        System.out.println();
+
 
     }
 
